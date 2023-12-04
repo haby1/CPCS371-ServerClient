@@ -1,7 +1,9 @@
 # CPCS371-ServerClient
 Establishing a TCP connection between Server and Client.
 
-**How it works:
+
+How it works:
+
 1- Run server.
 
 2- Run client to establish connection with the server.
@@ -21,4 +23,3 @@ Establishing a TCP connection between Server and Client.
 9- Loop from step (3).
 
 10- Enter N to disconnect connection between Client/Server.
-**
